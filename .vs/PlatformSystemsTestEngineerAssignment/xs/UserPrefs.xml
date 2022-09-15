@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{030FB73E-7B95-23EB-8817-724B17D6702B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ProgrammingTest/Scripts/Calculations.cs">
+    <Files>
+      <File FileName="Assets/ProgrammingTest/Scripts/Fraction.cs" Line="90" Column="57" />
+      <File FileName="Assets/ProgrammingTest/Scripts/Calculations.cs" Line="24" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlatformSystemsTestEngineerAssignment" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ProgrammingTest" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Calculations.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="379063e2-698a-4e5b-9037-3a3dfc68d9f6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
